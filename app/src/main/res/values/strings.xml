@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home"></string>
+    <string name="title_dashboard"></string>
+    <string name="title_notifications"></string>
+    <string name="title_favorites"></string>
+    <string name="title_settings"></string>
+
+    //Login
+    <string name="title">Iniciar sesión</string>
+    <string name="description">Por favor seleccione su método preferido para continuar configurando su cuenta</string>
+    <string name="optionsOne">Continuar con tu correo</string>
+    <string name="optionsTwo">Continuar con el teléfono</string>
+    <string name="socialOne">Google</string>
+    <string name="socialTwo">Facebook</string>
+    <string name="descriptionNoneAccount">¿No tienes cuenta?</string>
+    <string name="noneAccount">Registrate aca</string>
+    <string name="descriptionForgotAccount">¿No te acuerdas de tu cuenta?</string>
+    <string name="forgotAccount">Recuperala aca</string>
+
+    //Home
+    <string name="titleHome">Eventos</string>
+    <string name="descriptionHome">Lista de eventos proximos</string>
+
+    //Details
+    <string name="actionDetails">Agregar alerta</string>
+    <string name="descriptionDetailsToolbar">Evento en bogotá</string>
+    <string name="descriptionDetails">Description</string>
+
+    //Help
+    <string name="titleHelp">Ayuda</string>
+    <string name="descriptionHelp">Escribe tu solicitud y te responderemos por el correo</string>
+    <string name="subjectHelp">Asunto</string>
+    <string name="descriptionInputHelp">Descripción</string>
+    <string name="sendHelp">Enviar</string>
+
+    //Notifications
+    <string name="titleNotification">Alertas</string>
+    <string name="descriptionNotification">Estos son los eventos con alerta</string>
+    <string name="modeDescription">PANEL DE CONFIGURACIÓN </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod</string>
+
+
+</resources>
